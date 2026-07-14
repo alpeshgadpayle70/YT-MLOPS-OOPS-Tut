@@ -16,9 +16,11 @@ class employee:
          
 # creating an a obj/instance of the class
 sam=employee() 
-
 #printing the attributes
-print(type(sam))
-
+#print(type(sam))
+ 
 #calling a method  
 #sam.travel("Kerela")
+
+#sam.name="Ankita"
+#print(sam.name)

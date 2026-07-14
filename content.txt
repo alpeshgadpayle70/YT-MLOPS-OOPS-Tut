@@ -6,8 +6,11 @@
    > code resuability
    > debugging
    > easy to colab
-
 5.End to End project(chatbook class)
+   > function vs method  
+   > magic method / Special method/dunder method
+   > self
+   > you can create attribute oneside class
    > Encapsulation
    > getter and setter 
    > easy to colab

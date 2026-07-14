@@ -8,8 +8,20 @@
 
 #a = "x"
 #b = "y"
-#print(a+b)
+#print(a+wb)
 
 from oops_proj import chatbook
+ob=chatbook()
+print(ob.name)
 
-user1=chatbook()
+#user1=chatbook()
+
+#lst=[1,2,3]
+#a1=len(lst)
+
+#print(a1)
+
+#getter & setter
+#print(user.get_name())
+#user.set_name("Agent")
+#print(user.get_name())
